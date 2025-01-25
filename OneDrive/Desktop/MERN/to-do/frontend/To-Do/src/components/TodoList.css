@@ -1,0 +1,29 @@
+.taskComponent{
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+}
+.taskhistory{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    padding-left: 50px;
+    align-items: center;
+}
+.taskhistory p{
+    font-family:  "Poppins", serif;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+}
+.remove{
+    display: flex;
+    align-items: center;
+    padding-right: 70px;
+}
+
+
+
+
+
+
